@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Performance testing & engineering & python
 - 🖥️ Performance tools Expertise: Loadrunner, JMeter, Locust
 - 📫 How to reach me: Linkedin
-- ⚡ Fun fact: ...
-- 🏃 Marthon runner, cyclist
+- ⚡  Fun fact: ...
+- 🏃 Runner, cyclist & fitness freaky
 
